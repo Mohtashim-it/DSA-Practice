@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohtashim-it/DSA-Practice/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mohtashim-it/DSA-Practice/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mohtashim-it/DSA-Practice/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mohtashim-it/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
